@@ -14,7 +14,12 @@ Each lecture includes two presentations on the same topic; each presenter should
 
 The seminar will be held in English.
 
-## Zoom/Teams link
+## Teams link
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODIwNzBmMjktYTFhMy00MDVjLTgxMzctYTc1MjNjNjcwMzMy%40thread.v2/0?context=%7b%22Tid%22%3a%228c2b19ad-5f9c-49d4-9077-3ec3cfc52b3f%22%2c%22Oid%22%3a%2234f4b4d6-add4-483e-ae24-0684a44308d3%22%7d
+
+Meeting ID: 346 311 158 495 2
+
+Passcode: 9Zp2wq2J
 
 ## Contact
 wei.zhao@abdn.ac.uk
