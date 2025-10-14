@@ -28,7 +28,7 @@ crosstemporalnlp@gmail.com
 | Date       | Topics                            | Presenters  |
 |------------|-----------------------------------|----------------|
 | 14/10/2025 | [Kick-off](/lecture-01.pdf)   | Wei Zhao |     
-| 21/10/2025 | No seminar (watch [workshop recordings](/https://www.youtube.com/watch?v=Um27xolvBfc&t=9s))      | [XTempLLMs2025](/https://xtempllms.github.io/2025/program.html) |
+| 21/10/2025 | No seminar (watch [workshop recordings](https://www.youtube.com/watch?v=Um27xolvBfc&t=9s))      | [XTempLLMs2025](https://xtempllms.github.io/2025/program.html) |
 | 28/10/2025 | Temporal artefects       | |
 | 04/11/2025 | Knowledge conflicts       | |
 | 11/11/2025 | Knowledge conflicts       | |    |
