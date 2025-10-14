@@ -30,20 +30,20 @@ crosstemporalnlp@gmail.com
 |------------|-----------------------------------|----------------|
 | 14/10/2025 | Kick-off    | Wei Zhao |     
 | 21/10/2025 | No seminar (watch workshop recordings)      | XTempLLMs2025 |
-| 28/10/2025 | Knowledge conflicts       | |
+| 28/10/2025 | Temporal artefects       | |
 | 04/11/2025 | Knowledge conflicts       | |
 | 11/11/2025 | Knowledge conflicts       | |    |
-| 18/11/2025 | Knowledge conflicts       | |
-| 25/11/2025 | Knowledge conflicts       | |
-| 02/12/2025 | Knowledge conflicts       | |
-| 09/12/2025 | Knowledge conflicts       | |
-| 16/12/2025 | Knowledge conflicts       | |
+| 18/11/2025 | Temporal reasoning       | |
+| 25/11/2025 | Temporal reasoning       | |
+| 02/12/2025 | Temporal reasoning in healthcare & finance       | |
+| 09/12/2025 | Temporal reasoning in healthcare & finance       | |
+| 16/12/2025 | Time series forecasting       | |
 | Winter Break                                   |                |                |            |
-| 06/01/2026 | Knowledge conflicts       | |
-| 13/01/2026 | Knowledge conflicts       | |
-| 20/01/2026 | Knowledge conflicts       | |  
-| 27/01/2026 | Knowledge conflicts       | |
-| 03/02/2026 | Knowledge conflicts       | |
+| 06/01/2026 | Temporal knowledge graph       | |
+| 13/01/2026 | Temporal information retrieval       | |
+| 20/01/2026 | Cultural change over time       | |  
+| 27/01/2026 | Temporal social network       | |
+| 03/02/2026 | Project meeting       | |
 
 ## Useful Links
 previous course editions: https://github.com/andyweizhao/diaclms
@@ -52,8 +52,6 @@ previous course editions: https://github.com/andyweizhao/diaclms
 
 ## Templates for Term Papers
 https://www.overleaf.com/4222845983xxpyrsqbxzmt#2e3970
-
-
 
 ## References 
 - Knowledge conflicts
