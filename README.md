@@ -40,9 +40,9 @@ crosstemporalnlp@gmail.com
 | 16/12/2025 | Time series forecasting       | |
 | Winter Break                                   |                |                |            |
 | 06/01/2026 | Temporal knowledge graph       | |
-| 13/01/2026 | Temporal information retrieval       | |
+| 13/01/2026 | Temporal social network       | |
 | 20/01/2026 | Cultural change over time       | |  
-| 27/01/2026 | Temporal social network       | |
+| 27/01/2026 | Temporal information retrieval       | |
 | 03/02/2026 | Project meeting       | |
 
 ## Useful Links
