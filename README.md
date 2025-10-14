@@ -8,7 +8,7 @@ This seminar series takes place at Heidelberg University on Tuesdays from 15:15 
 
 ## Organization
 
-Each lecture includes two talks on the same topic; presenters cannot present the same paper. A list of papers is provided, and presenters could choose a paper not covered by the list but should contact us and have our consent before doing so.
+Each lecture includes two talks on the same topic; presenters cannot present the same paper. A list of papers is provided, and presenters could choose a paper not covered by the list but should contact us and have our consent before doing so. Enter your data into https://docs.google.com/spreadsheets/d/1E9hZaUB-22rfdrRw-PFAvEQ22yY5aPvq1MKeOwolpzQ/edit?usp=sharing 
 
 ## Language
 
@@ -22,7 +22,28 @@ Meeting ID: 346 311 158 495 2
 Passcode: 9Zp2wq2J
 
 ## Contact
-wei.zhao@abdn.ac.uk
+crosstemporalnlp@gmail.com
+
+## Programme 
+
+| Date       | Topics                            | Presenters  |
+|------------|-----------------------------------|----------------|
+| 14/10/2025 | Kick-off    | Wei Zhao |     
+| 21/10/2025 | No seminar (watch workshop recordings)      | XTempLLMs2025 |
+| 28/10/2025 | Knowledge conflicts       | |
+| 04/11/2025 | Knowledge conflicts       | |
+| 11/11/2025 | Knowledge conflicts       | |    |
+| 18/11/2025 | Knowledge conflicts       | |
+| 25/11/2025 | Knowledge conflicts       | |
+| 02/12/2025 | Knowledge conflicts       | |
+| 09/12/2025 | Knowledge conflicts       | |
+| 16/12/2025 | Knowledge conflicts       | |
+| Winter Break                                   |                |                |            |
+| 06/01/2026 | Knowledge conflicts       | |
+| 13/01/2026 | Knowledge conflicts       | |
+| 20/01/2026 | Knowledge conflicts       | |  
+| 27/01/2026 | Knowledge conflicts       | |
+| 03/02/2026 | Knowledge conflicts       | |
 
 ## Useful Links
 previous course editions: https://github.com/andyweizhao/diaclms
@@ -31,6 +52,8 @@ previous course editions: https://github.com/andyweizhao/diaclms
 
 ## Templates for Term Papers
 https://www.overleaf.com/4222845983xxpyrsqbxzmt#2e3970
+
+
 
 ## References 
 - Knowledge conflicts
