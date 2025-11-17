@@ -30,8 +30,8 @@ crosstemporalnlp@gmail.com
 | 14/10/2025 | [Kick-off](/slides/w1-lecture.pdf) [organisation](/slides/organisation.pdf)   | Wei Zhao |     
 | 21/10/2025 | No seminar (watch [workshop recordings](https://www.youtube.com/watch?v=Um27xolvBfc&t=9s))      | [XTempLLMs2025](https://xtempllms.github.io/2025/program.html) |
 | 28/10/2025 | Temporal artefects [calendar](/slides/w3-calendar.pdf)      | Jonathan Rosing|
-| 04/11/2025 | Knowledge conflicts       | |
-| 11/11/2025 | Knowledge conflicts       | |    |
+| 04/11/2025 | Knowledge conflicts  | Dominik Grosse [slides](/slides/w4-Dominik_Grosse.pdf) <br>Anni Wang [slides](/slides/w4-Anni_wang.pdf)| 
+| 11/11/2025 | Knowledge conflicts       | Bohdana Ivakhnenko <br>Raziye Sari [slides](/slides/w5-Raziye_Sari.pdf)|    |
 | 18/11/2025 | Temporal reasoning       | |
 | 25/11/2025 | Temporal reasoning       | |
 | 02/12/2025 | Temporal reasoning in healthcare & finance       | |
