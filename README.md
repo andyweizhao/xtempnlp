@@ -31,11 +31,11 @@ crosstemporalnlp@gmail.com
 | 21/10/2025 | No seminar (watch [workshop recordings](https://www.youtube.com/watch?v=Um27xolvBfc&t=9s))      | [XTempLLMs2025](https://xtempllms.github.io/2025/program.html) |
 | 28/10/2025 | Temporal artefects [calendar](/slides/w3-calendar.pdf)      | Jonathan Rosing|
 | 04/11/2025 | Knowledge conflicts  | Dominik Grosse [slides](/slides/w4-Dominik_Grosse.pdf) <br>Anni Wang [slides](/slides/w4-Anni_wang.pdf)| 
-| 11/11/2025 | Knowledge conflicts       | Bohdana Ivakhnenko <br>Raziye Sari [slides](/slides/w5-Raziye_Sari.pdf)|    |
-| 18/11/2025 | Temporal reasoning       | |
-| 25/11/2025 | Temporal reasoning       | |
-| 02/12/2025 | Temporal reasoning in healthcare & finance       | |
-| 09/12/2025 | Temporal reasoning in healthcare & finance       | |
+| 11/11/2025 | Knowledge conflicts       | Bohdana Ivakhnenko [slides](/slides/w5-Bohdana_Ivakhnenko.pdf) <br>Raziye Sari [slides](/slides/w5-Raziye_Sari.pdf)|    |
+| 18/11/2025 | Temporal reasoning       |Shiya Feng [slides](/slides/w6-Shiya.pptx) <br>Zheng-Lin Lin [slides](https://drive.google.com/file/d/1tJQzrht9HMYD6ePqBdCGpeJnDKBQAJ_-/view) |
+| 25/11/2025 | Temporal reasoning       |Binheng Zheng [slides](/slides/w7-Binheng_Zheng.pdf)|
+| 02/12/2025 | Temporal reasoning in healthcare & finance       |Paul Dietze <br>Yuzhen He|
+| 09/12/2025 | Temporal reasoning in healthcare & finance       |Yingxin Yu |
 | 16/12/2025 | Time series forecasting       | |
 | Winter Break                                   |                |                |            |
 | 06/01/2026 | Temporal knowledge graph       | |
