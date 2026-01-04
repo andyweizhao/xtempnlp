@@ -35,14 +35,14 @@ crosstemporalnlp@gmail.com
 | 18/11/2025 | Temporal reasoning       |Shiya Feng [slides](/slides/w6-Shiya.pptx) <br>Zheng-Lin Lin [slides](https://drive.google.com/file/d/1tJQzrht9HMYD6ePqBdCGpeJnDKBQAJ_-/view) |
 | 25/11/2025 | Temporal reasoning       |Binheng Zheng [slides](/slides/w7-Binheng_Zheng.pdf)|
 | 02/12/2025 | Temporal reasoning in healthcare & finance       |Paul Dietze <br>Yuzhen He|
-| 09/12/2025 | Temporal reasoning in healthcare & finance       |Yingxin Yu |
+| 09/12/2025 | Time series forecasting       |Yingxin Yu |
 | 16/12/2025 | Time series forecasting       | |
 | Winter Break                                   |                |                |            |
 | 06/01/2026 | Temporal knowledge graph       | |
-| 13/01/2026 | Temporal social network       | |
+| 13/01/2026 | Temporal information retrieval       | |
 | 20/01/2026 | Cultural change over time       | |  
-| 27/01/2026 | Temporal information retrieval       | |
-| 03/02/2026 | Project meeting       | |
+| 27/01/2026 | Temporal social network       | |
+| 03/02/2026 | Temporal reasoning in healthcare & finance       | |
 
 ## Useful Links
 previous course editions: https://github.com/andyweizhao/diaclms
