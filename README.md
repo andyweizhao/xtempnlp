@@ -34,12 +34,12 @@ crosstemporalnlp@gmail.com
 | 11/11/2025 | Knowledge conflicts       | Bohdana Ivakhnenko [slides](/slides/w5-Bohdana_Ivakhnenko.pdf) <br>Raziye Sari [slides](/slides/w5-Raziye_Sari.pdf)|    |
 | 18/11/2025 | Temporal reasoning       |Shiya Feng [slides](/slides/w6-Shiya.pptx) <br>Zheng-Lin Lin [slides](https://drive.google.com/file/d/1tJQzrht9HMYD6ePqBdCGpeJnDKBQAJ_-/view) |
 | 25/11/2025 | Temporal reasoning       |Binheng Zheng [slides](/slides/w7-Binheng_Zheng.pdf)|
-| 02/12/2025 | Temporal reasoning in healthcare & finance       |Paul Dietze <br>Yuzhen He|
-| 09/12/2025 | Time series forecasting       |Yingxin Yu |
-| 16/12/2025 | Time series forecasting       |Qingyang Cao <br> Yuefeiyang Li <br> Xinyi Cai  |
+| 02/12/2025 | Temporal reasoning in healthcare & finance       |Paul Dietze[slides](/slides/w8-Paul_Dietze.pdf) <br>Yuzhen He[slides](/slides/w8-Yuzhen_He.pdf)|
+| 09/12/2025 | Time series forecasting       |Yingxin Yu[slides](/slides/w9-Yingxin_Yu.pdf) |
+| 16/12/2025 | Time series forecasting       |Qingyang Cao[slides](/slides/w10-Qingyang_Cao.pdf) <br> Yuefeiyang Li[slides](/slides/w10-Yuefeiyang_Li.pdf) <br> Xinyi Cai |
 | Winter Break                                   |                |                |            |
 | 06/01/2026 | Temporal knowledge graph       |Amirreza Tarabkhah <br>Bingyue Li |
-| 13/01/2026 | Temporal information retrieval       |Buse Erkiraz <br>Mario Kuzmanov |
+| 13/01/2026 | Temporal information retrieval       |Buse Erkiraz <br>Mario Kuzmanov[slides](/slides/w13-Mario_Kuzmanov.pdf)|
 | 20/01/2026 | Cultural change over time       |Amir Safari <br> Yaxi Zhuang |  
 | 27/01/2026 | Temporal social network       |Chuqiao Li <br> Yiting Tong |
 | 03/02/2026 | Temporal reasoning in healthcare & finance       |Payam Soltanzadeh <br>Saliq Neyaz |
