@@ -41,7 +41,7 @@ crosstemporalnlp@gmail.com
 | 06/01/2026 | Temporal knowledge graph       |Amirreza Tarabkhah <br>Bingyue Li [slides](/slides/w12-Bingyue_Li.pdf) |
 | 13/01/2026 | Temporal information retrieval       |Buse Erkiraz [slides](/slides/w13-Buse_Erkiraz.pdf) <br>Mario Kuzmanov [slides](/slides/w13-Mario_Kuzmanov.pdf)|
 | 20/01/2026 | Cultural change over time       |Amir Safari [slides](https://www.pi.inc/docs/404000262958001?share_token=LZDJC3PP3HDIQ) <br> Yaxi Zhuang [slides](/slides/w14-Yaxi_Zhuang.pdf)|  
-| 27/01/2026 | Temporal social network       |Chuqiao Li [slides](/slides/w15-Chuqiao_Li.pdf) <br> Yiting Tong |
+| 27/01/2026 | Temporal social network       |Chuqiao Li [slides](/slides/w15-Chuqiao_Li.pdf) <br> Yiting Tong [slides](/slides/w15-Yiting_Tong.pptx) |
 | 03/02/2026 | Temporal reasoning in healthcare & finance       |Payam Soltanzadeh [slides](/slides/w16-Payam_Soltanzade.pdf) <br>Saliq Neyaz |
 
 ## Useful Links
