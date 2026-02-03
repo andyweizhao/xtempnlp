@@ -39,7 +39,7 @@ crosstemporalnlp@gmail.com
 | 16/12/2025 | Time series forecasting       |Qingyang Cao [slides](/slides/w10-Qingyang_Cao.pdf) <br> Yuefeiyang Li [slides](/slides/w10-Yuefeiyang_Li.pdf) <br> Xinyi Cai [slides](/slides/w11-Xinyi_Cai.pdf) |
 | Winter Break                                   |                |                |            |
 | 06/01/2026 | Temporal knowledge graph       |Amirreza Tarabkhah <br>Bingyue Li [slides](/slides/w12-Bingyue_Li.pdf) |
-| 13/01/2026 | Temporal information retrieval       |Buse Erkiraz [slides](/slides/w13_Buse_Erkiraz.pdf) <br>Mario Kuzmanov [slides](/slides/w13-Mario_Kuzmanov .pdf)|
+| 13/01/2026 | Temporal information retrieval       |Buse Erkiraz [slides](/slides/w13_Buse_Erkiraz.pdf) <br>Mario Kuzmanov [slides](/slides/w13-Mario_Kuzmanov.pdf)|
 | 20/01/2026 | Cultural change over time       |Amir Safari [slides](https://www.pi.inc/docs/404000262958001?share_token=LZDJC3PP3HDIQ) <br> Yaxi Zhuang [slides](/slides/w14-Yaxi_Zhuang.pdf)|  
 | 27/01/2026 | Temporal social network       |Chuqiao Li [slides](/slides/w15-Chuqiao_Li.pdf) <br> Yiting Tong [slides](/slides/w15_Yiting_Tong.pptx) |
 | 03/02/2026 | Temporal reasoning in healthcare & finance       |Payam Soltanzadeh [slides](/slides/w16-Payam_Soltanzade.pdf) <br>Saliq Neyaz |
