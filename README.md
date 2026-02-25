@@ -50,7 +50,9 @@ previous course editions: https://github.com/andyweizhao/diaclms
 ## Best Term Papers
 
 ## Templates for Term Papers
-https://www.overleaf.com/4222845983xxpyrsqbxzmt#2e3970
+~~https://www.overleaf.com/4222845983xxpyrsqbxzmt#2e3970~~ the template was wrongly made empty by someone, so I just created the following template with the VIEW permission only.
+
+https://www.overleaf.com/read/xvhqdwystjys#33ae0e
 
 ## References 
 - Knowledge conflicts
